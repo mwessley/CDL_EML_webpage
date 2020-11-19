@@ -8,30 +8,29 @@ layout: frontpage
 header:
   image_fullwidth: header-ml.png
   
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
-permalink: /index.html
-
-sdfsdf
-  
 widget1:
   title: "Blog"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-#  image: widget-1-302x182.jpg
   text: 'These are our news'
 widget2:
   title: "Research"
   url: 'https://mwessley.github.io/CDL_EML_webpage/research/'
   text: 'Research'
-#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "People"
   url: 'https://mwessley.github.io/CDL_EML_webpage/people/'
   text: 'These are the people in the lab'
 
 
+callforaction:
+  url: https://tinyletter.com/feeling-responsive
+  text: Inform me about new updates and features ›
+  style: alert
+permalink: /index.html
+
+
+#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+#  image: widget-1-302x182.jpg
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
