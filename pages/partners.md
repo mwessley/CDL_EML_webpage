@@ -12,7 +12,9 @@ permalink: "/partners/"
     <div class="large-2 columns" style="vertical-align: middle;">
     <img src="{{ site.urlimg }}TU-Signet.png" height="150px" style="vertical-align: middle;">
     </div>
-    <div class="large-10 columns"  style="text-align: justify;">
+    <div class="large-1 columns" >
+    </div>
+    <div class="large-9 columns"  style="text-align: justify;">
     The Institute of Computer Technology (ICT) at TU Wien with Prof. Axel Jantsch, Prof Hermann Kaindl and Prof. Thilo Sauter, has a strong research focus on embedded systems covering the full spectrum from analog hardware to embedded software. A. Jantsch’s group studies Systems on Chip (SoC) architecture and design methods and has gained international recognition for work on Network on Chip, self-aware SoC, on-chip resource management, and hardware security. ICT publishes about 80 peer reviewed papers per year in top journals and conferences and is well established in the international community with its staff regularly organizing special sessions, workshops and conferences, as reviewers, journal editors and guest editors.
     </div>
 </div><!-- /.row -->
