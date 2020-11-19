@@ -6,11 +6,11 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-ml-dark.jpg
+  image_fullwidth: header-ml.png
   
 widget1:
   title: "Blog"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'https://mwessley.github.io/CDL_EML_webpage/blog/'
   text: 'These are our news'
 widget2:
   title: "Research"
