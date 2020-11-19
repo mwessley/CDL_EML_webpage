@@ -18,12 +18,12 @@ permalink: "/partners/"
 </div><!-- /.row -->
 <br>
 <div class="row">
-    <div class="large-9 columns"  style="text-align: justify;">
-Institute for Computer Graphics and Vision (ICG) at the TU Graz with Prof. Horst Bischof, Prof. Vincent Lepetit, Prof. Thomas Pock and Prof. Dieter Schmalstieg, is the only Austrian academic group with the charter to address both computer vision and computer graphics. The ICG is carefully nurturing a culture of digital visual information processing. Research at the ICG is focused on machine vision, machine learning, medical image analysis, object reconstruction and object recognition, computer graphics and visualization. The institute is home to 7 civil service positions and about another 70 soft money positions, making it one of the largest institutes at Graz University of Technology. During the most recent 5-year period, the institute was responsible for 85 diploma theses and the award of 49 doctorates. Over the last years, our researchers authored on average about 90 publications a year in scientific journals, book chapters and international conferences. The ICG has experience in national (FWF and FFG) as well as EU-funded projects.
     </div>
     <div class="large-3 columns" >
     <img src="{{ site.urlimg }}TUGraz-Logo.png" height="150px">
     </div>
+    <div class="large-9 columns"  style="text-align: justify;">
+Institute for Computer Graphics and Vision (ICG) at the TU Graz with Prof. Horst Bischof, Prof. Vincent Lepetit, Prof. Thomas Pock and Prof. Dieter Schmalstieg, is the only Austrian academic group with the charter to address both computer vision and computer graphics. The ICG is carefully nurturing a culture of digital visual information processing. Research at the ICG is focused on machine vision, machine learning, medical image analysis, object reconstruction and object recognition, computer graphics and visualization. The institute is home to 7 civil service positions and about another 70 soft money positions, making it one of the largest institutes at Graz University of Technology. During the most recent 5-year period, the institute was responsible for 85 diploma theses and the award of 49 doctorates. Over the last years, our researchers authored on average about 90 publications a year in scientific journals, book chapters and international conferences. The ICG has experience in national (FWF and FFG) as well as EU-funded projects.
 </div><!-- /.row -->
 <br>
 <div class="row">
@@ -36,11 +36,11 @@ Siemens is a global powerhouse focusing on the areas of electrification, automat
 </div><!-- /.row -->
 <br>
 <div class="row">
-    <div class="large-9 columns"  style="text-align: justify;">
-Mission Embedded develops and supplies high-reliability embedded systems for professional applications in the fields of transportation, industry, air traffic control and medical technology. This is our passion. Our particular focus lies in assistance systems, autonomous driving, autonomous machinery as well as AI and machine vision in safety and security applications. Our tailor-made solutions enable our clients to make their innovation projects a reality within a short period of time. Mission Embedded is a member of the Frequentis Group and as such builds on more than 70 years of expertise and innovation in mission-critical applications. Customers benefit from practical experience in a large variety of fields from railway and air traffic management to industry and medical. Mission Embedded experts provide support during all phases of a product’s life-cycle, from the concept over the system design to production and maintenance.
-    </div>
     <div class="large-3 columns" >
     <img src="{{ site.urlimg }}Mission_Embedded.png" height="150px">
+    </div>
+    <div class="large-9 columns"  style="text-align: justify;">
+Mission Embedded develops and supplies high-reliability embedded systems for professional applications in the fields of transportation, industry, air traffic control and medical technology. This is our passion. Our particular focus lies in assistance systems, autonomous driving, autonomous machinery as well as AI and machine vision in safety and security applications. Our tailor-made solutions enable our clients to make their innovation projects a reality within a short period of time. Mission Embedded is a member of the Frequentis Group and as such builds on more than 70 years of expertise and innovation in mission-critical applications. Customers benefit from practical experience in a large variety of fields from railway and air traffic management to industry and medical. Mission Embedded experts provide support during all phases of a product’s life-cycle, from the concept over the system design to production and maintenance.
     </div>
 </div><!-- /.row -->
 <br>
@@ -54,15 +54,15 @@ AVL (Anstalt für Verbrennungskraftmaschinen List) is an Austrian-based automoti
 </div><!-- /.row -->
 <br>
 <div class="row">
+    <div class="large-3 columns" >
+    <img src="{{ site.urlimg }}CDG.jpg" height="150px">
+    <img src="{{ site.urlimg }}BMDW_Logo_srgb.png" height="150px">
+    </div>
     <div class="large-9 columns"  style="text-align: justify;">
 The Christian Doppler Research Association (CDG) is named after the Austrian physicist and mathematician, Christian Andreas Doppler. He is primarily renowned for his discovery known as the "Doppler Effect". The universality of the "Doppler Effect" applies to a wide spectrum of uses in natural sciences and technology.
 <br>
 The non-profit association aims at promoting development in the areas of natural sciences, technology and economy as well as for their economic implementation and utilisation. It enables talented scientists in renowned research centres to achieve high-quality research and knowledge transfer in line with the demands and to the advantage of the CDG member companies.<br>
 The aim of the Federal Ministry for Digital and Economic Affairs (BMDW) is to drive the positive development of the business location further, to actively use the opportunities of digitization for economy and society and to promote entrepreneurship. Together with private companies, the BMDW sponsors research projects through the Christian Doppler Research Association. 
-    </div>
-    <div class="large-3 columns" >
-    <img src="{{ site.urlimg }}CDG.jpg" height="150px">
-    <img src="{{ site.urlimg }}BMDW_Logo_srgb.png" height="150px">
     </div>
 </div><!-- /.row -->
 
