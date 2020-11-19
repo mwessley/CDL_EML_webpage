@@ -19,42 +19,17 @@ header: no
         </div><!-- /.small-12.columns -->
     </div>
     <div class="row">
-    <div class="small-6 columns">
-        <img src="{{ site.urlimg }}/people/AxelJantsch.jpg">
-		Axel Jantsch
-		<br>(TU Wien)
-    </div>
-    <div class="small-6 columns">
-        <img src="{{ site.urlimg }}/people/HorstBischof.jpg">
-        Horst Bischof
-        <br>(TU Graz)
-    </div>
-  </div>
-</div>
-
-<div class="show-for-large-up">
-    <div class="row">
-        <div class="small-12 columns">
-            <h2>Principle Investigators</h2>
-        </div><!-- /.small-12.columns -->
-    </div>
-    <div class="row">
-        <div class="large-2 columns">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/AxelJantsch.jpg">
-                Axel Jantsch
-                <br>(TU Wien)
+            Axel Jantsch
+            <br>(TU Wien)
         </div>
-        <div class="large-2 columns">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/HorstBischof.jpg">
-        Horst Bischof
-        <br>(TU Graz)
-        </div>
-        <div class="large-8 columns">
+            Horst Bischof
+            <br>(TU Graz)
         </div>
     </div>
-</div>
-
-<div class="show-for-small">
     <div class="row">
         <div class="small-12 columns">
             <h3>Research Staff</h3>
@@ -121,6 +96,31 @@ header: no
         <div class="small-2 columns">
         </div>
     </div>
+</div>
+
+<div class="show-for-large-up">
+    <div class="row">
+        <div class="small-12 columns">
+            <h2>Principle Investigators</h2>
+        </div><!-- /.small-12.columns -->
+    </div>
+    <div class="row">
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/AxelJantsch.jpg">
+                Axel Jantsch
+                <br>(TU Wien)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/HorstBischof.jpg">
+        Horst Bischof
+        <br>(TU Graz)
+        </div>
+        <div class="large-8 columns">
+        </div>
+    </div>
+</div>
+
+<div class="show-for-small">
 </div>
 
 <div class="show-for-large-up">
