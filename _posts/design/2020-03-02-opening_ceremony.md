@@ -7,11 +7,11 @@ categories:
     - design
 tags:
     - post format
+header: no
 image:
-   thumb: "opening.jpg"
-gallery:
-    - image_url: opening.jpg
-      caption: Heads of the project partners
+    thumb: "opening.jpg"
+    title: opening.jpg
+    caption: Heads of the project partners
 ---
 
 
@@ -26,4 +26,3 @@ Bernt Schiele, Max Planck Institut, Saarland, Germany, Bright and Dark Sides of 
 
 Thomas Lüftner, Silicon Austria Labs, Austria Industrial applications of Embedded ML - challenges and opportunities
 
-{% include gallery %}
