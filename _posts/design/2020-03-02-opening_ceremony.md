@@ -2,14 +2,15 @@
 layout: page
 # subheadline:  "...and it works"
 title:  "Opening ceremony"
-# teaser: "Yay we habe a homepage"
+teaser: "The CD-Lab was inaugurated with presentations from all partners and with a scientific seminar with several renowned speakerse"
 categories:
-    - design
+    - press 
 tags:
-    - post format
+    - official
 header: no
+author: matthias
 image:
-    thumb: "opening.jpg"
+    thumb: opening.jpg
     title: opening.jpg
     caption: Heads of the project partners
 ---
