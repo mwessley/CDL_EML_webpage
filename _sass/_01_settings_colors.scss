@@ -34,23 +34,26 @@ $periwinkle-crayola: #ccdbfdff;
 $lavender-blue: #c1d3feff;
 $lavender-blue-2: #b6ccfeff;
 $baby-blue-eyes: #abc4ffff;
+$celadon-blue: #457b9dff;
+$prussian-blue: #1d3557ff;
 
-
-$ci-1: #edf2fbff;		// dark turquoise
-$ci-2: #e2eafcff;		// turquoise
-$ci-3: #d7e3fcff;		// yellow
-$ci-4: #ccdbfdff;		// orange
-$ci-5: #c1d3feff;		// red
-$ci-6: #b6ccfeff;     // green
+$ci-1: #edf2fbff;
+$ci-2: #e2eafcff;
+$ci-3: #d7e3fcff;
+$ci-4: #ccdbfdff;
+$ci-5: #c1d3feff;
+$ci-6: #b6ccfeff;
 $ci-7: #abc4ffff;
+$ci-8: #457b9dff;
+$ci-9: #1d3557ff;
 
 
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color: $ci-1;
-$secondary-color: $ci-6;
+$primary-color: $ci-8;
+$secondary-color: $ci-9;
 $alert-color: $ci-5;
 $success-color: $ci-6;
 $warning-color: $ci-4;
