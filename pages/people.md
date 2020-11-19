@@ -26,8 +26,8 @@ header: no
     </div>
     <div class="small-6 columns">
         <img src="{{ site.urlimg }}/people/HorstBischof.jpg">
-Horst Bischof
-<br>(TU Graz)
+        Horst Bischof
+        <br>(TU Graz)
     </div>
   </div>
 </div>
@@ -38,20 +38,20 @@ Horst Bischof
             <h2>Principle Investigators</h2>
         </div><!-- /.small-12.columns -->
     </div>
-
-<div class="row">
-  <div class="large-2 columns">
-    <img src="{{ site.urlimg }}/people/AxelJantsch.jpg">
-		Axel Jantsch
-		<br>(TU Wien)
-  </div>
-  <div class="large-2 columns">
-    <img src="{{ site.urlimg }}/people/HorstBischof.jpg">
-Horst Bischof
-<br>(TU Graz)
-  </div>
-  <div class="large-8 columns">
-  </div>
+    <div class="row">
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/AxelJantsch.jpg">
+                Axel Jantsch
+                <br>(TU Wien)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/HorstBischof.jpg">
+        Horst Bischof
+        <br>(TU Graz)
+        </div>
+        <div class="large-8 columns">
+        </div>
+    </div>
 </div>
 
 <div class="show-for-small">
@@ -61,66 +61,66 @@ Horst Bischof
         </div><!-- /.small-12.columns -->
     </div>
     <div class="row">
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/AlexanderWendt.jpg">
-Alexander Wendt
-<br>(TU Wien)
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/AlexanderWendt.jpg">
+            Alexander Wendt
+            <br>(TU Wien)
+        </div>
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/MichaelOpitz.png">
+            Michael Opitz
+            <br>(TU Graz)
+        </div>
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/MatthiasWess.png">
+            Matthias Wess
+            <br>(Siemens, TU Wien)
+        </div>
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/MartinLechner.jpg">
+            Martin Lechner
+            <br>(ME, TU Wien)
+        </div>
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/ChristianKrieg.jpg">
+            Christian Krieg
+            <br>(TU Wien)
+        </div>
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/ChristianFruwirthReisinger.jpg">
+            Christian Frühwirth-Reisinger
+            <br>(TU Graz) 
+        </div>
     </div>
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/MichaelOpitz.png">
-Michael Opitz
-<br>(TU Graz)
+    <div class="row">
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/DusanMalic.png">
+            Dusan Malic
+            <br>(TU Graz)
+        </div>
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/person-icon.png">
+            Marco Leber-Wuschning
+            <br>(TU Wien)
+        </div>
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/MatveyIvanov.png">
+            Matvey Ivanov
+            <br>(TU Wien)
+        </div>
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/AmidMozelli.jpg">
+            Amid Mozelli
+            <br>(TU Wien)
+        </div>
+        <div class="small-2 columns">
+            <img src="{{ site.urlimg }}/people/person-icon.png">
+            Bernhard Haas
+            <br>(TU Wien)
+        </div>
+        <div class="small-2 columns">
+        </div>
     </div>
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/MatthiasWess.png">
-Matthias Wess
-<br>(Siemens, TU Wien)
-    </div>
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/MartinLechner.jpg">
-Martin Lechner
-<br>(ME, TU Wien)
-    </div>
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/ChristianKrieg.jpg">
-Christian Krieg
-<br>(TU Wien)
-    </div>
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/ChristianFruwirthReisinger.jpg">
-Christian Frühwirth-Reisinger
-<br>(TU Graz) 
-    </div>
-  </div>
-  <div class="row">
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/DusanMalic.png">
-Dusan Malic
-<br>(TU Graz)
-    </div>
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/person-icon.png">
-Marco Leber-Wuschning
-<br>(TU Wien)
-    </div>
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/MatveyIvanov.png">
-Matvey Ivanov
-<br>(TU Wien)
-    </div>
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/AmidMozelli.jpg">
-Amid Mozelli
-<br>(TU Wien)
-    </div>
-    <div class="small-2 columns">
-        <img src="{{ site.urlimg }}/people/person-icon.png">
-Bernhard Haas
-<br>(TU Wien)
-    </div>
-    <div class="small-2 columns">
-    </div>
-  </div>
 </div>
 
 <div class="show-for-large-up">
@@ -129,69 +129,67 @@ Bernhard Haas
             <h2>Research Staff</h2>
         </div><!-- /.small-12.columns -->
     </div>
-
-<div class="row">
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/AlexanderWendt.jpg">
-Alexander Wendt
-<br>(TU Wien)
+    <div class="row">
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/AlexanderWendt.jpg">
+            Alexander Wendt
+            <br>(TU Wien)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/MichaelOpitz.png">
+            Michael Opitz
+            <br>(TU Graz)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/MatthiasWess.png">
+            Matthias Wess
+            <br>(Siemens, TU Wien)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/MartinLechner.jpg">
+            Martin Lechner
+            <br>(Mission Embedded, TU Wien)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/ChristianKrieg.jpg">
+            Christian Krieg
+            <br>(TU Wien)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/ChristianFruwirthReisinger.jpg">
+            Christian Fruhwirth-Reisinger
+            <br>(TU Graz) 
+        </div>
     </div>
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/MichaelOpitz.png">
-Michael Opitz
-<br>(TU Graz)
+    <div class="row">
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/DusanMalic.png">
+            Dusan Malic
+            <br>(TU Graz)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/person-icon.png">
+            Marco Leber-Wuschning
+            <br>(TU Wien)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/MatveyIvanov.png">
+            Matvey Ivanov
+            <br>(TU Wien)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/AmidMozelli.jpg">
+            Amid Mozelli
+            <br>(TU Wien)
+        </div>
+        <div class="large-2 columns">
+            <img src="{{ site.urlimg }}/people/person-icon.png">
+            Bernhard Haas
+            <br>(TU Wien)
+        </div>
+        <div class="large-2 columns">
+        </div>
     </div>
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/MatthiasWess.png">
-Matthias Wess
-<br>(Siemens, TU Wien)
-    </div>
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/MartinLechner.jpg">
-Martin Lechner
-<br>(Mission Embedded, TU Wien)
-    </div>
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/ChristianKrieg.jpg">
-Christian Krieg
-<br>(TU Wien)
-    </div>
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/ChristianFruwirthReisinger.jpg">
-Christian Fruhwirth-Reisinger
-<br>(TU Graz) 
-    </div>
-  </div>
-  
-  <div class="row">
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/DusanMalic.png">
-Dusan Malic
-<br>(TU Graz)
-    </div>
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/person-icon.png">
-Marco Leber-Wuschning
-<br>(TU Wien)
-    </div>
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/MatveyIvanov.png">
-Matvey Ivanov
-<br>(TU Wien)
-    </div>
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/AmidMozelli.jpg">
-Amid Mozelli
-<br>(TU Wien)
-    </div>
-    <div class="large-2 columns">
-        <img src="{{ site.urlimg }}/people/person-icon.png">
-Bernhard Haas
-<br>(TU Wien)
-    </div>
-    <div class="large-2 columns">
-    </div>
-  </div>
   
 </div>
 
