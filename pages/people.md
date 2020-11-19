@@ -19,17 +19,15 @@ header: no
         </div><!-- /.small-12.columns -->
     </div>
     <div class="row">
-    <div class="small-2 columns">
+    <div class="small-6 columns">
         <img src="{{ site.urlimg }}/people/AxelJantsch.jpg">
 		Axel Jantsch
 		<br>(TU Wien)
     </div>
-    <div class="small-2 columns">
+    <div class="small-6 columns">
         <img src="{{ site.urlimg }}/people/HorstBischof.jpg">
 Horst Bischof
 <br>(TU Graz)
-    </div>
-    <div class="small-8 columns">
     </div>
   </div>
 </div>
