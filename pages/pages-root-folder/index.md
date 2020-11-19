@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-ml.png
+  image_fullwidth: header-ml-dark.jpg
   
 widget1:
   title: "Blog"
