@@ -36,64 +36,72 @@ header: no
         </div><!-- /.small-12.columns -->
     </div>
     <div class="row">
-        <div class="small-2 columns">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/AlexanderWendt.jpg">
             Alexander Wendt
             <br>(TU Wien)
         </div>
-        <div class="small-2 columns">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/MichaelOpitz.png">
             Michael Opitz
             <br>(TU Graz)
         </div>
-        <div class="small-2 columns">
+    </div>
+    <div class="row">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/MatthiasWess.png">
             Matthias Wess
             <br>(Siemens, TU Wien)
         </div>
-        <div class="small-2 columns">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/MartinLechner.jpg">
             Martin Lechner
             <br>(ME, TU Wien)
         </div>
-        <div class="small-2 columns">
+    </div>
+    <div class="row">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/ChristianKrieg.jpg">
             Christian Krieg
             <br>(TU Wien)
         </div>
-        <div class="small-2 columns">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/ChristianFruwirthReisinger.jpg">
             Christian Frühwirth-Reisinger
             <br>(TU Graz) 
         </div>
     </div>
     <div class="row">
-        <div class="small-2 columns">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/DusanMalic.png">
             Dusan Malic
             <br>(TU Graz)
         </div>
-        <div class="small-2 columns">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/person-icon.png">
             Marco Leber-Wuschning
             <br>(TU Wien)
         </div>
-        <div class="small-2 columns">
+    </div>
+    <div class="row">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/MatveyIvanov.png">
             Matvey Ivanov
             <br>(TU Wien)
         </div>
-        <div class="small-2 columns">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/AmidMozelli.jpg">
             Amid Mozelli
             <br>(TU Wien)
         </div>
-        <div class="small-2 columns">
+    </div>
+    <div class="row">
+        <div class="small-6 columns">
             <img src="{{ site.urlimg }}/people/person-icon.png">
             Bernhard Haas
             <br>(TU Wien)
         </div>
-        <div class="small-2 columns">
+        <div class="small-6 columns">
         </div>
     </div>
 </div>
