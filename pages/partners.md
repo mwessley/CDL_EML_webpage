@@ -18,12 +18,12 @@ permalink: "/partners/"
 </div><!-- /.row -->
 <br>
 <div class="row">
-    </div>
     <div class="large-3 columns" >
     <img src="{{ site.urlimg }}TUGraz-Logo.png" height="150px">
     </div>
     <div class="large-9 columns"  style="text-align: justify;">
 Institute for Computer Graphics and Vision (ICG) at the TU Graz with Prof. Horst Bischof, Prof. Vincent Lepetit, Prof. Thomas Pock and Prof. Dieter Schmalstieg, is the only Austrian academic group with the charter to address both computer vision and computer graphics. The ICG is carefully nurturing a culture of digital visual information processing. Research at the ICG is focused on machine vision, machine learning, medical image analysis, object reconstruction and object recognition, computer graphics and visualization. The institute is home to 7 civil service positions and about another 70 soft money positions, making it one of the largest institutes at Graz University of Technology. During the most recent 5-year period, the institute was responsible for 85 diploma theses and the award of 49 doctorates. Over the last years, our researchers authored on average about 90 publications a year in scientific journals, book chapters and international conferences. The ICG has experience in national (FWF and FFG) as well as EU-funded projects.
+    </div>
 </div><!-- /.row -->
 <br>
 <div class="row">
