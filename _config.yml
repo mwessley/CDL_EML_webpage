@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Christian Doppler Laboratory for Embedded Machine Learning'
+title: 'Embedded Machine Learning a Christian Doppler Laboratory'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'We make Machine Learning Happen'
@@ -42,7 +42,7 @@ urlimg: 'https://mwessley.github.io/CDL_EML_webpage/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo-inv.png"
 
 # Plugins
 plugins:
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: matthias     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar: left        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: matthias     # Default author for posts
 
 
 
@@ -143,9 +143,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+# google_author:             'https://plus.google.com/u/0/118311555303973066167'
+# google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+# bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
