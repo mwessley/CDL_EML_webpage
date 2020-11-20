@@ -42,7 +42,7 @@ urlimg: 'https://mwessley.github.io/CDL_EML_webpage/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo-inv.png"
+logo: "logo.png"
 
 # Plugins
 plugins:
