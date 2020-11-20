@@ -201,3 +201,13 @@ header: no
   
 </div>
 
+<h2>Affiliated Research Students </h2>
+Alemajehu Kaleab Kinfu (TU Graz)<br>
+Anam Zahra (TU Graz)<br>
+Rudolf Wörndle (TU Graz)<br>
+Andreas Glinserer (TU Wien)<br>
+Dominik Dallinger (TU Wien)<br>
+Stephan Holly (TU Wien)<br>
+Lukas Steindl (TU Wien)<br>
+Helmuth Breitenfellner (TU Wien)<br>
+
