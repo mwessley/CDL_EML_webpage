@@ -7,7 +7,7 @@ title:  "People"
 categories:
     - people
 permalink: /people/
-header: no
+# header: no
 ---
 
 
